@@ -1,3 +1,5 @@
 git init
 git add .
 git commit -m "Initial commit — add Lab 3 Matrix and Vector system"
+git config --global user.name "sara"
+git config --global user.email "hanimaisara2006@gmail.com"
