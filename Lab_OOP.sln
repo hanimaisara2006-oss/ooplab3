@@ -6,3 +6,6 @@ git config --global user.email "hanimaisara2006@gmail.com"
 git remote add origin https://github.com/hanimaisara2006-oss/ooplab3
 git branch -M main
 git push -u origin main
+git add README.md
+git commit -m "Add README documentation explaining project structure"
+git push
