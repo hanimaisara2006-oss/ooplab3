@@ -9,3 +9,6 @@ git push -u origin main
 git add README.md
 git commit -m "Add README documentation explaining project structure"
 git push
+git add .gitignore
+git commit -m "Add gitignore to exclude Visual Studio generated files"
+git push
